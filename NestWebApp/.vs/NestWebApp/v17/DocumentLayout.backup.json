@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\Desktop\\NestWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|c:\\users\\revan\\desktop\\nestwebapp\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|solutionrelative:areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|c:\\users\\revan\\desktop\\nestwebapp\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|solutionrelative:areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|c:\\users\\revan\\desktop\\nestwebapp\\areas\\manage\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|solutionrelative:areas\\manage\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|c:\\users\\revan\\desktop\\nestwebapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|c:\\users\\revan\\desktop\\nestwebapp\\areas\\manage\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B86C4AF-4E76-4A01-822E-A4E2714DD94E}|NestWebApp.csproj|solutionrelative:areas\\manage\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Manage\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwEkBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:13:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Manage\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswFYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T09:09:42.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateProductVm.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
+              "RelativeToolTip": "Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:07:09.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductVm.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
+              "RelativeDocumentMoniker": "Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\NestWebApp\\Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
+              "RelativeToolTip": "Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:01:51.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\NestWebApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\NestWebApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:01:28.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

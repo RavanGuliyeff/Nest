@@ -1,0 +1,15 @@
+﻿global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using NestWebApp.Models;
+global using NestWebApp.Models.Base;
+global using NestWebApp.ViewModels;
+global using Microsoft.AspNetCore.Mvc;
+global using NestWebApp.Areas.Manage.ViewModels.Category;
+global using NestWebApp.DAL;
+global using NestWebApp.Areas.Manage.ViewModels.Slider;
+global using NestWebApp.Areas.Manage.ViewModels.Brand;
+global using NestWebApp.Areas.Manage.ViewModels.Tag;
+global using NestWebApp.Areas.Manage.ViewModels.Type;
+global using NestWebApp.Areas.Manage.ViewModels.Product;
+global using NestWebApp.Helpers.Extensions;
